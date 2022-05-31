@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/CeleryTask" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/covid_ksh_demo/csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/covid_ksh_demo/data" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/covid_ksh_demo/models.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/covid_ksh_demo/visualization.py" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/keshihua" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/css" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/font" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/js" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/static/video" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/templates/index.html" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/tutorial/celery.py" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

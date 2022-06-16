@@ -2,10 +2,11 @@ from __future__ import absolute_import
 
 # from covid_ksh_demo.pachong import lishishuju, yqday, yqveryday, ssrd, parse, fxdq, Moon_Tow_Near
 
-from CeleryTask.celery import cel
+from mycelery.main import cel
 import json
 from datetime import datetime
 import requests
+
 
 @cel.task
 def start_get_data():
@@ -33,4 +34,3 @@ def start_get_data():
     print('获取完毕数据已更新!')
     print('更新时间:' + nowtime)
     return "complete"
-
